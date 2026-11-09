@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smartpuzzles.github.io/casual-games/sitemap.xml
